@@ -1,0 +1,9 @@
+Crop Optimization using Genetic Algorithm
+
+This project applies a Genetic Algorithm (GA) to optimize crop selection and farming strategies based on multiple fitness functions. Users can choose between three options:
+
+Crop Yield Fitness – maximizing productivity.
+
+Environmental Impact Fitness – minimizing harmful effects.
+
+Combined Fitness – balancing yield and sustainability.
